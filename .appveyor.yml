@@ -36,7 +36,7 @@ environment:
   gist_id:
 
   # Force test: gist id for test results
-  gist_id_test:
+  gist_id_test: au-packages-test-gists
 
   # Chocolatey API key - to push updated packages
   api_key:
